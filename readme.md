@@ -36,6 +36,7 @@ El directorio contiene carpetas independientes y con una funcionalidad, estan ba
   $ npm install
   ```
 - luego ejecuta
+
   ```sh
   $ gulp
   ```
