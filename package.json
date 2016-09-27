@@ -1,0 +1,16 @@
+{
+  "name": "scaffolding-basic",
+  "version": "1.0.0",
+  "description": "Este es un Directorio para projectos basicos, con una arquitectura basica para que el desarrollador se enfoque en el desarrollo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kodevian",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
