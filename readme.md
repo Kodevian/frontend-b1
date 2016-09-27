@@ -28,7 +28,7 @@ El directorio contiene carpetas independientes y con una funcionalidad, estan ba
 ## Instalación
 
 - clona el reporsitorio en un directorio.
-- posicionate en la carpeta y ejectura:
+- posicionate en la carpeta y ejecuta:
 
   ```sh
   $ cd to/path/frontend-b1
