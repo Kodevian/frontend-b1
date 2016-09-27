@@ -6,7 +6,7 @@ Este es un Directorio para projectos basicos, con una arquitectura basica para q
 
 El directorio contiene carpetas independientes y con una funcionalidad, estan bajo una nomenclatura estandar, las cuales son:
 
-- **bower*components** : contiene las librerias generadas por el bower.json, esta carpeta es generada.
+- **bower_components** : contiene las librerias generadas por el bower.json, esta carpeta es generada.
 - **node_modules** : contiene los modulos generados por el package.json, esta carpeta es generada.
 - **assets**: carpeta de trabajo, aqui va nuestros recursos para el desarrollo, las carpetas son:
 
