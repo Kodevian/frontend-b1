@@ -35,3 +35,7 @@ El directorio contiene carpetas independientes y con una funcionalidad, estan ba
   $ bower install
   $ npm install
   ```
+- luego ejecuta
+  ```sh
+  $ gulp
+  ```
